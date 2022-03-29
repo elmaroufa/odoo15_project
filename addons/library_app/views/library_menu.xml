@@ -1,0 +1,4 @@
+<odoo>
+  <!-- librery menu -->
+  <menuitem id="menu_library" name="Library" />
+</odoo>
