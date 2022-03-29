@@ -1,3 +1,7 @@
+# Manage library 
+
+Project to create a library management system to learn odoo 15
+
 # Quick install
 
 Installing and run Odoo 15 with one command.
